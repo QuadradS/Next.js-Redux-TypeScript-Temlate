@@ -1,0 +1,7 @@
+node_modules/
+.next
+*-error.log
+coverage/
+.now
+.idea
+.DS_Store
